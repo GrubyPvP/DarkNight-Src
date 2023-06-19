@@ -237,7 +237,7 @@ namespace bizibitirdinbe
 				GUILayout.EndArea();
 				break;
 			case SettingsOptions.Info:
-				GUILayout.Label("Status: CHÓJ", Array.Empty<GUILayoutOption>());
+				GUILayout.Label("Status: CHÓJ GÓWNO KUTAS", Array.Empty<GUILayoutOption>());
 				GUILayout.Label("Version: 2.1.3.7", Array.Empty<GUILayoutOption>());
 				GUILayout.Label("Cracked by: @coopyy and i like men", Array.Empty<GUILayoutOption>());
 				GUILayout.Label("what a dogshit paste lmao fr", Array.Empty<GUILayoutOption>());
