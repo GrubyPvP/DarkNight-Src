@@ -237,10 +237,10 @@ namespace bizibitirdinbe
 				GUILayout.EndArea();
 				break;
 			case SettingsOptions.Info:
-				GUILayout.Label("Status: Undetected", Array.Empty<GUILayoutOption>());
-				GUILayout.Label("Version: 0.0.2", Array.Empty<GUILayoutOption>());
-				GUILayout.Label("Cracked by: @coopyy", Array.Empty<GUILayoutOption>());
-				GUILayout.Label("what a dogshit paste lmao", Array.Empty<GUILayoutOption>());
+				GUILayout.Label("Status: CHÓJ", Array.Empty<GUILayoutOption>());
+				GUILayout.Label("Version: 2.1.3.7", Array.Empty<GUILayoutOption>());
+				GUILayout.Label("Cracked by: @coopyy and i like men", Array.Empty<GUILayoutOption>());
+				GUILayout.Label("what a dogshit paste lmao fr", Array.Empty<GUILayoutOption>());
 				GUILayout.EndArea();
 				break;
 			}
